@@ -1,4 +1,44 @@
-h1 {
-color: blue;
+body {
+background-color: black;
+font-family: verdana,sans-serif;
+color: white;
+text-align: center;
+}
 
+.discover h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+
+
+.links {
+  font-size: 16px;
+  color: Aquamarine;
+  font-family: verdana;
+
+}
+
+.travel h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.travel p{
+  font-size: 21px;
+  color: Gray;
+}
+
+
+.coming h1{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+
+}
+
+#footer{
+  text-align: right;
+  color: Gray;
+  font-family: verdana;
 }
